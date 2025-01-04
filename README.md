@@ -1,4 +1,4 @@
-Here’s a professional and well-structured README template for your **Apple_OpenELM_3B_Instruct** project:
+
 
 ---
 
